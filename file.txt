@@ -1,0 +1,5 @@
+Se accepta orice limbaj si folosirea oricarei librarii pentru implementare. AES poate fi
+folosit ca algoritm de criptare pus la dispozitie de orice librarie criptografica. Modul
+de operare (ECB si OFB) se cere sa fie implementat in cadrul temei. Nu se cere
+rezolvarea de eventuale probleme de sincronizare intre noduri, interfata pentru noduri,
+sau un anumit protocol de comunicare.
